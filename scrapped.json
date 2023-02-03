@@ -1,0 +1,365 @@
+[
+  {
+    "id": 11939,
+    "title": "BYD Commercial Paket C230",
+    "price": "108.178,00 € *",
+    "availability": {
+      "date": "",
+      "Stock": "Auf Anfrage"
+    },
+    "articleNumber": "4224",
+    "link": "https://www.memodo.de/gewerbespeicher/byd/4224/byd-commercial-paket-c230"
+  },
+  {
+    "id": 11938,
+    "title": "Trina 405 TSM-DE09.08 Vertex S",
+    "price": "151,88 € *",
+    "availability": {
+      "date": "",
+      "Stock": "Auf Anfrage"
+    },
+    "articleNumber": "6451",
+    "link": "https://www.memodo.de/trina-405-tsm-de09-08-vertex-s"
+  },
+  {
+    "id": 11940,
+    "title": "K2 Modulendklemme Standard Set 32 mm, schwarz",
+    "price": "1,90 € *",
+    "availability": {
+      "date": "Ab Lager verfügbar",
+      "Stock": ""
+    },
+    "articleNumber": "6665",
+    "link": "https://www.memodo.de/k2-modulendklemme-standard-set-32-mm-schwarz"
+  },
+  {
+    "id": 11889,
+    "title": "BYD Battery-Box Premium LVS 12.0",
+    "price": "5.341,00 € *",
+    "availability": {
+      "date": "ab 09.10.2023",
+      "Stock": ""
+    },
+    "articleNumber": "5427",
+    "link": "https://www.memodo.de/byd-battery-box-premium-lvs-12.0"
+  },
+  {
+    "id": 11888,
+    "title": "BYD Battery-Box Premium LVS 8.0",
+    "price": "3.735,00 € *",
+    "availability": {
+      "date": "ab 09.10.2023",
+      "Stock": ""
+    },
+    "articleNumber": "5426",
+    "link": "https://www.memodo.de/byd-battery-box-premium-lvs-8-0"
+  },
+  {
+    "id": 11886,
+    "title": "BYD Battery-Box Premium HVM 16.6",
+    "price": "7.641,00 € *",
+    "availability": {
+      "date": "ab 13.10.2023",
+      "Stock": ""
+    },
+    "articleNumber": "4647",
+    "link": "https://www.memodo.de/byd-battery-box-premium-hvm-16.6"
+  },
+  {
+    "id": 11885,
+    "title": "BYD Battery-Box Premium LVL 15.4 + BMU",
+    "price": "6.058,00 € *",
+    "availability": {
+      "date": "ab 06.02.2023",
+      "Stock": ""
+    },
+    "articleNumber": "4665",
+    "link": "https://www.memodo.de/byd-battery-box-premium-lvl-15.4"
+  },
+  {
+    "id": 11887,
+    "title": "BYD Battery-Box Premium LVS 4.0",
+    "price": "2.129,00 € *",
+    "availability": {
+      "date": "ab 09.10.2023",
+      "Stock": ""
+    },
+    "articleNumber": "5425",
+    "link": "https://www.memodo.de/byd-battery-box-premium-lvs-4.0"
+  },
+  {
+    "id": 11190,
+    "title": "",
+    "price": "",
+    "availability": {
+      "date": "",
+      "Stock": ""
+    },
+    "articleNumber": "",
+    "link": "https://www.memodo.de/neoom-blokk-light-88-"
+  },
+  {
+    "id": 10562,
+    "title": "AEconversion Paket für 1 Modul",
+    "price": "228,00 € *",
+    "availability": {
+      "date": "ab 08.05.2023",
+      "Stock": ""
+    },
+    "articleNumber": "4277",
+    "link": "https://www.memodo.de/aeconversion-inv-315-50-paket-"
+  },
+  {
+    "id": 10922,
+    "title": "ABL Betonfundament für Stele STEMH10 / STEMH30",
+    "price": "285,00 € *",
+    "availability": {
+      "date": "Ab Lager verfügbar",
+      "Stock": ""
+    },
+    "articleNumber": "4362",
+    "link": "https://www.memodo.de/abl-betonfundament-emh9999"
+  },
+  {
+    "id": 10618,
+    "title": "AEconversion Paket für 2 Module",
+    "price": "433,00 € *",
+    "availability": {
+      "date": "ab 08.05.2023",
+      "Stock": ""
+    },
+    "articleNumber": "4278",
+    "link": "https://www.memodo.de/aeconversion-inv-315-50-paket"
+  },
+  {
+    "id": 10620,
+    "title": "",
+    "price": "",
+    "availability": {
+      "date": "",
+      "Stock": ""
+    },
+    "articleNumber": "",
+    "link": "https://www.memodo.de/aeconversion-inv350-60-paket-fuer-1-modul"
+  },
+  {
+    "id": 10926,
+    "title": "Easee Home 22 kW weiss",
+    "price": "727,00 € *",
+    "availability": {
+      "date": "ab 06.02.2023",
+      "Stock": ""
+    },
+    "articleNumber": "6657",
+    "link": "https://www.memodo.de/easee-home-22-kw-weiss"
+  },
+  {
+    "id": 10619,
+    "title": "Fronius Primo 3.0-1",
+    "price": "882,00 € *",
+    "availability": {
+      "date": "ab 02.10.2023",
+      "Stock": ""
+    },
+    "articleNumber": "1524",
+    "link": "https://www.memodo.de/fronius-primo-3-0-1"
+  },
+  {
+    "id": 10664,
+    "title": "Kostal Piko CI 30",
+    "price": "2.275,00 € *",
+    "availability": {
+      "date": "ab 08.03.2023",
+      "Stock": ""
+    },
+    "articleNumber": "5668",
+    "link": "https://www.memodo.de/kostal-piko-ci-30"
+  },
+  {
+    "id": 10623,
+    "title": "Fronius Primo 3.0-1 Light",
+    "price": "765,00 € *",
+    "availability": {
+      "date": "",
+      "Stock": "Auf Anfrage"
+    },
+    "articleNumber": "1529",
+    "link": "https://www.memodo.de/fronius-primo-3-0-1-light"
+  },
+  {
+    "id": 10621,
+    "title": "Fronius Symo Hybrid 4.0-3-S",
+    "price": "1.348,00 € *",
+    "availability": {
+      "date": "",
+      "Stock": "Auf Anfrage"
+    },
+    "articleNumber": "930",
+    "link": "https://www.memodo.de/fronius-symo-hybrid-4.0-3-s"
+  },
+  {
+    "id": 10929,
+    "title": "Easee Ladekabelhalterung schwarz",
+    "price": "48,00 € *",
+    "availability": {
+      "date": "Ab Lager verfügbar",
+      "Stock": ""
+    },
+    "articleNumber": "6701",
+    "link": "https://www.memodo.de/easee-ladekabelhalterung-schwarz"
+  },
+  {
+    "id": 10622,
+    "title": "Fronius Symo Hybrid 5.0-3-S",
+    "price": "1.420,00 € *",
+    "availability": {
+      "date": "",
+      "Stock": "Auf Anfrage"
+    },
+    "articleNumber": "931",
+    "link": "https://www.memodo.de/fronius-symo-hybrid-5.0-3-s"
+  },
+  {
+    "id": 10936,
+    "title": "EVBox Elvi 11 kW Wi-Fi Smart Charging, schwarz",
+    "price": "449,00 € *",
+    "availability": {
+      "date": "ab 06.02.2023",
+      "Stock": ""
+    },
+    "articleNumber": "5628",
+    "link": "https://www.memodo.de/evbox-elvi-11kw-wifi-smart-charging-schwarz"
+  },
+  {
+    "id": 10624,
+    "title": "",
+    "price": "",
+    "availability": {
+      "date": "",
+      "Stock": ""
+    },
+    "articleNumber": "",
+    "link": "https://www.memodo.de/fronius-primo-3-5-1"
+  },
+  {
+    "id": 10941,
+    "title": "EVBox Elvi Kabelhalterung",
+    "price": "45,00 € *",
+    "availability": {
+      "date": "ab 06.02.2023",
+      "Stock": ""
+    },
+    "articleNumber": "3328",
+    "link": "https://www.memodo.de/evbox-elvi-kabelhalterung"
+  },
+  {
+    "id": 10625,
+    "title": "",
+    "price": "",
+    "availability": {
+      "date": "",
+      "Stock": ""
+    },
+    "articleNumber": "",
+    "link": "https://www.memodo.de/fronius-primo-3-5-1-light"
+  },
+  {
+    "id": 10626,
+    "title": "Fronius Primo 3.6-1",
+    "price": "933,00 € *",
+    "availability": {
+      "date": "ab 02.10.2023",
+      "Stock": ""
+    },
+    "articleNumber": "1525",
+    "link": "https://www.memodo.de/fronius-primo-3-6-1"
+  },
+  {
+    "id": 10939,
+    "title": "EVBox BusinessLine Standfuß zum Einbetonieren",
+    "price": "176,80 € *",
+    "availability": {
+      "date": "Ab Lager verfügbar",
+      "Stock": ""
+    },
+    "articleNumber": "3373",
+    "link": "https://www.memodo.de/ladestationen/evbox/3373/evbox-businessline-standfuss-zum-einbetonieren"
+  },
+  {
+    "id": 10627,
+    "title": "Fronius Primo 3.6-1 Light",
+    "price": "815,00 € *",
+    "availability": {
+      "date": "",
+      "Stock": "Auf Anfrage"
+    },
+    "articleNumber": "1531",
+    "link": "https://www.memodo.de/fronius-primo-3-6-1-light"
+  },
+  {
+    "id": 10940,
+    "title": "EVBox BusinessLine Halterung Wandmontage",
+    "price": "264,00 € *",
+    "availability": {
+      "date": "ab 27.03.2023",
+      "Stock": ""
+    },
+    "articleNumber": "3374",
+    "link": "https://www.memodo.de/ladestationen/evbox/3374/evbox-businessline-halterung-wandmontage"
+  },
+  {
+    "id": 10628,
+    "title": "Fronius Primo 4.0-1",
+    "price": "977,00 € *",
+    "availability": {
+      "date": "ab 11.12.2023",
+      "Stock": ""
+    },
+    "articleNumber": "1521",
+    "link": "https://www.memodo.de/fronius-primo-4-0-1"
+  },
+  {
+    "id": 10942,
+    "title": "E3/DC Wallbox easy connect flex 22 kW, Buchse",
+    "price": "1.289,00 € *",
+    "availability": {
+      "date": "ab 06.02.2023",
+      "Stock": ""
+    },
+    "articleNumber": "5934",
+    "link": "https://www.memodo.de/e3-dc-wallbox-easy-connect-flex-22-kw"
+  },
+  {
+    "id": 10629,
+    "title": "Fronius Primo 4.0-1 Light",
+    "price": "857,00 € *",
+    "availability": {
+      "date": "",
+      "Stock": "Auf Anfrage"
+    },
+    "articleNumber": "1532",
+    "link": "https://www.memodo.de/fronius-primo-4-0-1-light"
+  },
+  {
+    "id": 10961,
+    "title": "E3/DC Wallbox easy connect flex 11 kW, Buchse",
+    "price": "1.249,00 € *",
+    "availability": {
+      "date": "",
+      "Stock": "Auf Anfrage"
+    },
+    "articleNumber": "5931",
+    "link": "https://www.memodo.de/e3-dc-wallbox-easy-connect-flex-11-kw"
+  },
+  {
+    "id": 10630,
+    "title": "Fronius Primo 4.6-1",
+    "price": "1.038,00 € *",
+    "availability": {
+      "date": "ab 11.12.2023",
+      "Stock": ""
+    },
+    "articleNumber": "1491",
+    "link": "https://www.memodo.de/fronius-primo-4-6-1"
+  }
+]
